@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# g-Sight
+g-Sight is a Gym management system. In g-sight I am creating a distributed platform for all the gyms where all the owners of the gym can operate and manage their data effectively so in turn they can take decisions wisely for future prospects, which will reduce the communication gap and can give the best experience to the customers. 
+
+Implementing the features like the dashboard, social media platform, statistical data, and authentication using MERN stack.
+
+Currently, I am developing this platform so I don't have a deploy version but soon I am gonna update it.
 
 ## Available Scripts
 
